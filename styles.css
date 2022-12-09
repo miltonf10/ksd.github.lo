@@ -55,7 +55,19 @@
     float: right;
     line-height: 100px;
 }
-
+.dhasboar{
+    padding: 5%;
+    display: flexbox;
+    background-color: #e0dede8e;
+    justify-content: center;
+    align-items: center;
+}
+.ubicacion{
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    background-color: #e0dede8e;
+}
 .menu2{
     padding: 5%;
     display: flex;
@@ -65,9 +77,10 @@
 }
 
 .galeria{
+    padding: 5%;
     display: flex;
     justify-content: center;
-    padding: 5%;
+    
 }
 .container .menu a{
     display: inline-block;
